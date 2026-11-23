@@ -30,4 +30,4 @@ Ringkasan Capaian Progress 1:
 - Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
 - Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main. 
 >>>>>>> 49f2e5762bc151442c9be978e1f2f1becc90e953
-
+ 
