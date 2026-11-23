@@ -4,6 +4,7 @@
 - **Judul / Tema:** PesanKamar
 - **Link Repo Public:** https://github.com/Setshii/PesanKamar.git
 
+<<<<<<< HEAD
 ## Daftar Anggota & Akun GitHub
 1. Wendi Yuliansyah Asril - 263140701111053 (@Setshii)
 2. Daffa Dwi Yasha - 263140701111044 (@daffadwiyasha)
@@ -22,3 +23,11 @@
 - `README.md` awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
 - Proposal & analisis awal (Bagian A) telah diunggah pada `docs/` atau `README.md`.
 - Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di `docs/` pada branch `main`.
+=======
+Ringkasan Capaian Progress 1:
+- Repository Public aktif dengan struktur awal (.gitignore, tsconfig.json, package.json, src/index.ts) dan program "Hello console" dapat dijalankan semua anggota.
+- README.md awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
+- Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
+- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main. 
+>>>>>>> 49f2e5762bc151442c9be978e1f2f1becc90e953
+
