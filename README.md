@@ -1,10 +1,10 @@
 === PENGUMPULAN PROGRESS 1 – UAS PEMROGRAMAN DASAR ===
 Kelas / Kelompok   : T1[A/B/C/D/E/F] / Kelompok-[NN]
-Judul / Tema       : [Nama Aplikasi Console TypeScript Tim]
+Judul / Tema       : PesanKamar
 Link Repo Public   : https://github.com/Setshii/PesanKamar.git
 
 Daftar Anggota & Akun GitHub:
-1. [Nama Lengkap Anggota 1] - [NIM] (@[username_github_1])
+1. [Wendi Yuliansyah Asril] - [263140701111053] (@[Setshii])
 2. [Nama Lengkap Anggota 2] - [NIM] (@[username_github_2])
 3. [Nama Lengkap Anggota 3] - [NIM] (@[username_github_3])  *(hapus jika tim 2 orang)
 
