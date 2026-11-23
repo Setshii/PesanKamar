@@ -5,7 +5,7 @@ Link Repo Public   : https://github.com/Setshii/PesanKamar.git
 
 Daftar Anggota & Akun GitHub:
 1. [Wendi Yuliansyah Asril] - [263140701111053] (@[Setshii])
-2. [Nama Lengkap Anggota 2] - [NIM] (@[username_github_2])
+2. [Daffa Dwi Yasha] - [263140701111044] (@daffadwiyasha)
 3. [Nama Lengkap Anggota 3] - [NIM] (@[username_github_3])  *(hapus jika tim 2 orang)
 
 Ringkasan Capaian Progress 1:
