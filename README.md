@@ -1,6 +1,8 @@
-# PENGUMPULAN PROGRESS 1 – UAS PEMROGRAMAN DASAR
+# UAS PEMROGRAMAN DASAR
+# SISTEM PEMESANAN KAMAR HOTEL
 
-- **Kelas / Kelompok:** T1[A/B/C/D/E/F] / Kelompok-[NN]
+- **Kelas / Kelompok:** T1D / Kelompok-5
+  
 - **Judul / Tema:** PesanKamar
 - **Link Repo Public:** https://github.com/Setshii/PesanKamar.git
 
