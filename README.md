@@ -33,5 +33,14 @@ Ringkasan Capaian Progress 1:
 - Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main. 
 
 
- 
+ === PENGUMPULAN PROGRESS 2 — UAS PEMROGRAMAN DASAR ===
+Kelas / Kelompok   : T1[A/B/C/D/E/F] / Kelompok-[NN]
+Link Repo Public   : https://github.com/Setshii/PesanKamar.git
+Link Pull Request  : https://github.com/Setshii/PesanKamar/pull/3
+
+Ringkasan Capaian Progress 2 (Branch main):
+- Flowchart alur menu utama (Bagian B) telah selesai dan ditempel di laporan BAB II (draf di docs/).
+- Definisi struktur data & minimal 4 fungsi bertipe telah dirancang di src/index.ts.
+- Fondasi Materi UTS (Ekspresi & Operator, Seleksi Kondisi, Tipe Data & Variabel, Komentar) & Menu Utama berjalan.
+- Draft laporan di docs/ diperbarui: BAB I (1.3–1.5 menu utama), BAB II, 3.1 baris fondasi UTS, dan Screenshot 1.
 
