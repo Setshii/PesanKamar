@@ -1,8 +1,11 @@
-# Aplikasi Console "Pesan Kamar" — UAS Pemrograman Dasar
+# UAS PEMROGRAMAN DASAR
+# SISTEM PEMESANAN KAMAR HOTEL
 
 - **Kelas / Kelompok:** T1D / Kelompok-5
-- **Judul / Tema:** Pesan Kamar (Sistem Pembayaran & Pemesanan Kamar Hotel)
+  
+- **Judul / Tema:** PesanKamar
 - **Link Repo Public:** https://github.com/Setshii/PesanKamar.git
+
 
 ## Daftar Anggota & Akun GitHub
 1. Wendi Yuliansyah Asril - 263140701111053 (@Setshii)
@@ -13,18 +16,22 @@
 
 | Nama & NIM | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Tautan Pull Request Utama |
 | :--- | :--- | :--- | :--- |
-| Wendi Yuliansyah Asril<br>NIM: 263140701111053 | @Setshii | Setup repo, Struktur Data, Fungsi Input & Validasi, Fitur Create, Seed Data, README | https://github.com/Setshii/PesanKamar/pull/1 |
+| Wendi Yuliansyah Asril<br>NIM: 263140701111053 | @Setshii | Setup repo, Struktur Data, Fungsi Input & Validasi, Fitur Create, Seed Data, README ,laporan Bab I (Sampul, 1.1 - 1.5) & Integrasi Laporan | https://github.com/Setshii/PesanKamar/pull/1 |
 | Daffa Dwi Yasha<br>NIM: 263140701111044 | @daffadwiyasha | Fungsi Tampilan, Fitur Read, Fitur Search, Flowchart (Bab II) & Screenshot | - |
-| Putri Sekar Tunjung Seto<br>NIM: 263140701111062 | @putrisekartunjungsetod045-source | Fungsi Hitung Biaya, Fitur Update, Fitur Delete, Menu Utama, Laporan Bab I (Sampul, 1.1 - 1.5) & Integrasi Laporan | - |
+| Putri Sekar Tunjung Seto<br>NIM: 263140701111062 | @putrisekartunjungsetod045-source | Fungsi Hitung Biaya, Fitur Update, Fitur Delete, Menu Utama,  | - |
 
 ## Ringkasan Capaian Progress 1
-- Repository Public aktif dengan struktur awal (.gitignore, tsconfig.json, package.json, src/index.ts) dan program "Hello console" dapat dijalankan semua anggota.
-- README.md awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
-- Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
-- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main.
+- Repository Public aktif dengan struktur awal (`.gitignore`, `tsconfig.json`, `package.json`, `src/index.ts`) dan program "Hello console" dapat dijalankan semua anggota.
+- `README.md` awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
+- Proposal & analisis awal (Bagian A) telah diunggah pada `docs/` atau `README.md`.
+- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di `docs/` pada branch `main`.
 =======
 Ringkasan Capaian Progress 1:
 - Repository Public aktif dengan struktur awal (.gitignore, tsconfig.json, package.json, src/index.ts) dan program "Hello console" dapat dijalankan semua anggota.
 - README.md awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
 - Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
-- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main.
+- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main. 
+
+
+ 
+
